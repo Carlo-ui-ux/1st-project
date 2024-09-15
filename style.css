@@ -38,17 +38,27 @@ nav ul li a{
     font-size: 18px;
 }
 .header-text{
-    margin-top: 10%;
     font-size: 20px;
 }
+table, tr, th, td{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-width: 3px;
+    border-color: #080808;
+    border-style: solid;
+}
+caption{
+    font-size: 50px;
+}
 h6{
-    font-size: 60px;
-    margin-top: 70px;
+    font-size: 30px;
+    margin-top: 10px;
     text-align: center;
 }
 
 /*--barangay officials--*/
 .wrapper{
+    padding-top: 60%;
     margin: 0 auto;
     width: 420px;
     text-align: center;
